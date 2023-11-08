@@ -13,4 +13,4 @@ Currently, two official plugins are available:
 3. go to folder that you have created
 4. run 'npm install'
 5. npm run dev
-6. npm test for test function
+6. run 'npm test' for test function
